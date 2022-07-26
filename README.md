@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript">
-    <img alt="Odin Banner" src="./the_odin_project.PNG" width="600" />
+    <img alt="Odin Banner" src="./the_odin_project.png" width="600" />
   </a>
 </p>
 
